@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="View">
+        <attr name="coloredBackground" format="reference" />
+        <attr name="coloredTextColor" format="reference" />
+    </declare-styleable>
+</resources>
